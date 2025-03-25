@@ -1,9 +1,8 @@
-# Travel Advisor
+# Travel Advisor  
 
+![Travel Advisor](https://i.ibb.co/qph2cZn/image.png)  
 
-![Travel Advisor](https://i.ibb.co/qph2cZn/image.pngg)
-
-# 🌍 TravelAdvisor  
+## 🌍 TravelAdvisor  
 
 A **Travel Advisor Web App** that helps users find the best restaurants, hotels, and attractions in any location. Integrated with **RapidAPI** to fetch real-time data and interactive map functionality.  
 
@@ -19,10 +18,3 @@ A **Travel Advisor Web App** that helps users find the best restaurants, hotels,
 - **APIs Used:**  
   - 🗺️ **Open-Web-Map API** (RapidAPI)  
   - 🍽️ **Travel Advisor API** (RapidAPI)  
-
-
-
-
-
-
-
